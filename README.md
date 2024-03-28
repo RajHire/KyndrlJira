@@ -1,2 +1,0 @@
-# KyndrlJira
-JiraGit-GitHub Integration
